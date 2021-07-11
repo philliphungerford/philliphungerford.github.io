@@ -99,6 +99,4 @@ If you would like to get in touch, contact me via LinkedIn
 [Kaggle](https://www.kaggle.com/philastotle)
 
 
-
-# End
-Thanks for dropping by :) 
+[Home](index.md).
