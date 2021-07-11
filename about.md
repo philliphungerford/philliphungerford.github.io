@@ -92,11 +92,9 @@ Selected Coursework: Machine learning and Data mining (HD), Statistical Modellin
 
 # Contact
 
-If you would like to get in touch, contact me via LinkedIn
+If you would like to get in touch, contact me via [LinkedIn](https://www.linkedin.com/in/philliphungerford/).
 
-[LinkedIn](https://www.linkedin.com/in/philliphungerford/)
-
-[Kaggle](https://www.kaggle.com/philastotle)
+See my current work on [Kaggle](https://www.kaggle.com/philastotle).
 
 
-[Home](index.md).
+Return to the [home page](index.md).
