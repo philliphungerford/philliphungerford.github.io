@@ -12,7 +12,7 @@ I have always been passionate about improving the health and well-being of those
 
 
 
-This site is all about health related data and how we can best analyse it using a range of data science tools. This includes statistical analysis, visualisation tools and machine learning. Although I have skills using a variety of programming languages I will focus on Python and R.  
+This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
 
 
 
