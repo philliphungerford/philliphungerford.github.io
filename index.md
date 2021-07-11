@@ -8,7 +8,7 @@ layout: default
 
 # About Me
 
-I have always been passionate about improving the health and well-being of those around me. It was during my undergraduate statistics units in Psychology and Criminology that I discovered the power of data and how good data can allow for powerful inferences and applicaitons in the health sector. 
+I have always been passionate about improving the health and well-being of those around me. It was during my undergraduate statistics units in Psychology and Criminology that I discovered the power of data and how good data can allow for powerful inferences and applications in the health sector. 
 
 ```python
 Languages = ('Python', 'R', 'SQL', 'SAS', 'SPSS', 'Matlab', 'Groovy')
