@@ -24,7 +24,7 @@ This site is all about health related data and how we can best analyse it using 
 >   	  - [Basics](SQL-basics.md)
 >   	- Python
 >   - Statistics
->     - Fundamentals
+>     - [Fundamentals](statistics-fundamentals.md)
 >       - Frequency distributions and graphing
 >       - Rankings in a distribution
 >       - Central tendency
@@ -45,7 +45,6 @@ This site is all about health related data and how we can best analyse it using 
 >       - Power analysis
 >       - Linear Models
 >       - Generalised Linear Models
->
 >     - Longitudinal Data Analysis
 >       - Longitudinal data
 >       - Linear Mixed Effects Models
