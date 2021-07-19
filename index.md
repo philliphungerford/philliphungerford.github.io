@@ -19,33 +19,45 @@ This site is all about health related data and how we can best analyse it using 
 # Subjects
 
 > - Tutorials
-> 	- Programming
-> 		- SQL
-> 		  - [Basics](SQL-basics.md)
-> 		- Python
-> 	- Statistics
-> 		- Fundamentals
-> 			- Frequency distributions and graphing
-> 			- Rankings in a distribution
-> 			- Central tendency
-> 			- Variability
-> 			- Standard scores
-> 			- Estimation and sampling distributions
-> 			- Probability
-> 			- Binomial probability
-> 			- Hypothesis testing
-> 			- One sample t-test
-> 			- Bivariate deisgns
-> 			- Independent groups t-test
-> 			- Paired samples t-test
-> 			- Correlation
-> 			- Regression
-> 			- Analysis of variance (ANOVA)
-> 			- Chi-square 
-> 			- Power analysis
-> 		- Survival Analysis
-> - Types of health data
-> - Health data science projects
+>   - Programming
+>   	- SQL
+>   	  - [Basics](SQL-basics.md)
+>   	- Python
+>   - Statistics
+>     - Fundamentals
+>       - Frequency distributions and graphing
+>       - Rankings in a distribution
+>       - Central tendency
+>       - Variability
+>       - Standard scores
+>       - Estimation and sampling distributions
+>       - Probability
+>       - Binomial probability
+>       - Hypothesis testing
+>       - One sample t-test
+>       - Bivariate deisgns
+>       - Independent groups t-test
+>       - Paired samples t-test
+>       - Correlation
+>       - Regression
+>       - Analysis of variance (ANOVA)
+>       - Chi-square 
+>       - Power analysis
+>       - Linear Models
+>       - Generalised Linear Models
+>
+>     - Longitudinal Data Analysis
+>       - Longitudinal data
+>       - Linear Mixed Effects Models
+>       - Generalised Estimating Equations
+>       - Generalised Linear Mixed Effects Models
+>       - Multilevel Modelling
+>       - Missing Data and Dropout
+>       - Survival Analysis
+>     - Machine Learning
+>       - Supervised
+>       - Unsupervised
+> - Data science projects
 
 
 
