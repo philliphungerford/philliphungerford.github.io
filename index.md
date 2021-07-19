@@ -21,10 +21,10 @@ This site is all about health related data and how we can best analyse it using 
 > - Tutorials
 >   - Programming
 >   	- SQL
->   	  - [Basics](programming/SQL-basics.md)
+>   	  - [Basics](programming-sql-basics.md)
 >   	- Python
 >   - Statistics
->     - [Fundamentals](statistics/statistics-fundamentals.md)
+>     - [Fundamentals](statistics-fundamentals.md)
 >       - Frequency distributions and graphing
 >       - Rankings in a distribution
 >       - Central tendency
