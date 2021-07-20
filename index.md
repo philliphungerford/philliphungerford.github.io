@@ -8,10 +8,6 @@ layout: default
 
 # Welcome!
 
-I have always been passionate about improving the health and well-being of those around me. It was during my undergraduate statistics units in Psychology and Criminology that I discovered the power of data and how good data can allow for powerful inferences and applications in the health sector. 
-
-
-
 This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
 
 
@@ -57,6 +53,9 @@ This site is all about health related data and how we can best analyse it using 
 >       - Supervised
 >       - Unsupervised
 > - Data science projects
+>   - [Identifying 3D organ scans using AI](https://github.com/philliphungerford/dissertation)
+>   - [Predicting prostate cancer plan violations using AI](https://github.com/philliphungerford/dissertation)
+>   - [Visualising longitudinal study data in R](https://github.com/philliphungerford/ndarc-point-dashboard)
 
 
 
