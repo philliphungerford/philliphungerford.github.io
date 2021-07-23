@@ -48,7 +48,11 @@ p <-
   labs(title = "What You Can Learn", y="Knowledge",x = "Time") + 
   
   theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),
-        panel.background = element_rect(fill = "#f7f7f7", colour = "black"), axis.line = element_line(colour = "black"), legend.position="bottom")
+        panel.background = element_rect(fill = "#f7f7f7", colour = "black"), axis.line = element_line(colour = "black"), legend.position="bottom",
+        axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        axis.text.y=element_blank(),
+        axis.ticks.y=element_blank())
 
 # Preview & save
 print(p)
