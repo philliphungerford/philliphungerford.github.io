@@ -2,9 +2,6 @@
 layout: default
 ---
 
-```
-“Data is a precious thing and will last longer than the systems themselves.” - Tim Berners-Lee
-```
 
 # Welcome!
 
@@ -62,3 +59,10 @@ This site is all about health related data and how we can best analyse it using 
 # About Me
 
 If you would like to know more about me, click [here](about.md).
+
+
+
+```
+“Data is a precious thing and will last longer than the systems themselves.” - Tim Berners-Lee
+```
+
