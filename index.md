@@ -9,7 +9,7 @@ This site is all about health related data and how we can best analyse it using 
 
 
 
-![Figure 1. - Skills](index-plot.png)
+![Figure 1. - Skills](index-plot-py.png)
 
 
 

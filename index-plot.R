@@ -1,7 +1,7 @@
 ##############################################################################
-# Script name: r-script-template.R
-# Purpose:
-# Author: 
+# Script name: index-plot.R
+# Purpose: Creating the plot for my website
+# Author: Phillip Hungerford
 # Date Created: 2021-07-24
 # Copyright (c) Phillip Hungerford, 2021
 # Email: phillip.hungerford@gmail.com
@@ -56,7 +56,7 @@ p <-
 
 # Preview & save
 print(p)
-ggsave(filename = 'index-plot.png', dpi = 320, width = 101.6/5, height=57.15/5, units="cm", limitsize = F)
+ggsave(filename = 'index-plot-r.png', dpi = 320, width = 101.6/5, height=57.15/5, units="cm", limitsize = F)
 ##############################################################################
 #################################### END #####################################
 ##############################################################################
