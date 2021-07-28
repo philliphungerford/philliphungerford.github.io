@@ -34,3 +34,7 @@ layout: default
 - Generalised Linear Models
 
 ## Frequency distributions and graphing
+
+
+---
+Return to the [home page](index.md).

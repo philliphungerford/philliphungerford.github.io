@@ -328,3 +328,6 @@ ON table_ids.id = table_names.name
 -- And we are selecting only those with the specified id
 WHERE id = '1234';
 ```
+
+---
+Return to the [home page](index.md).

@@ -48,7 +48,7 @@ This site is all about health related data and how we can best analyse it using 
 >       - Generalised Linear Mixed Effects Models
 >       - Multilevel Modelling
 >       - Missing Data and Dropout
->       - Survival Analysis
+>       - [Time-To-Event (Survival) Analysis](statistics-lda-survival.md)
 >     - Machine Learning
 >       - Supervised
 >       - Unsupervised

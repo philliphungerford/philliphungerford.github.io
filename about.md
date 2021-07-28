@@ -96,5 +96,5 @@ If you would like to get in touch, contact me via [LinkedIn](https://www.linkedi
 
 See my current work on [Kaggle](https://www.kaggle.com/philastotle).
 
-
+---
 Return to the [home page](index.md).
