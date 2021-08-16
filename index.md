@@ -57,6 +57,7 @@ This site is all about health related data and how we can best analyse it using 
 >   - [Identifying 3D organ scans using AI](https://github.com/philliphungerford/dissertation)
 >   - [Predicting prostate cancer plan violations using AI](https://github.com/philliphungerford/dissertation)
 >   - [Visualising longitudinal study data in R](https://github.com/philliphungerford/ndarc-point-dashboard)
+>   - [COVID-19 Tracker NSW](https://philliphungerford.shinyapps.io/covid-tracker-au-nsw/)
 
 
 
