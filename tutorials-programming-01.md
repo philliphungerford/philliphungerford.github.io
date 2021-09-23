@@ -1,4 +1,6 @@
-# SQL Basics
+# Data Manipulation
+
+This page shows how to manipulate data in SQL, R & Python.
 
 
 

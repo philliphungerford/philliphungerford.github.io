@@ -11,15 +11,18 @@ This site is all about health related data and how we can best analyse it using 
 
 ![Figure 1. - Skills](index-plot-py.png)
 
+# News
+I have created a dashboard that shows the NSW Health data regarding COVID cases in NSW. Dashboard is hosted on the shiny apps server [here](https://philliphungerford.shinyapps.io/covid-tracker-au-nsw/).
+
+![COVID-19 Tracker](covid-tracker-design.png)
+
 
 
 # Subjects
 
 > - Tutorials
 >   - Programming
->   	- SQL
->   	  - [Basics](programming-sql-basics.md)
->   	- Python
+>   	- [Data Manipulation (SQL, Python, R)](tutorials-programming-01.md)
 >   - Statistics
 >     - [Fundamentals](statistics-fundamentals.md)
 >       - Frequency distributions and graphing
@@ -32,7 +35,7 @@ This site is all about health related data and how we can best analyse it using 
 >       - Binomial probability
 >       - Hypothesis testing
 >       - One sample t-test
->       - Bivariate deisgns
+>       - Bivariate designs
 >       - Independent groups t-test
 >       - Paired samples t-test
 >       - Correlation
@@ -52,7 +55,26 @@ This site is all about health related data and how we can best analyse it using 
 >       - [Time-To-Event (Survival) Analysis](statistics-lda-survival.md)
 >     - Machine Learning
 >       - Supervised
+>         - Classification and Regression
+>         - Generalisation, overfitting and underfitting
+>         - K-Nearest Neighbours (KNN)
+>         - Linear Models
+>         - Naive Bayes Classifiers
+>         - Decision Trees
+>         - Ensembles of Decision Trees
+>         - Kernelised Support Vector Machines (SVM)
+>         - Neural Networks (Deep Learning)
 >       - Unsupervised
+>         - Dimensionality Reduction, Feature Extraction and Manifold Learning
+>         - Principal Component Analysis (PCA)
+>         - Non-Negative Matrix Factorisation (NMF)
+>         - Manifold Learning with t-SNE
+>         - Clustering
+>           - K-Means Clustering
+>           - Agglomerative Clustering
+>           - DBSCAN
+>           - Comparing Clustering Algorithms
+>       - Model Evaluation and Improvement
 > - Data science projects
 >   - [Identifying 3D organ scans using AI](https://github.com/philliphungerford/dissertation)
 >   - [Predicting prostate cancer plan violations using AI](https://github.com/philliphungerford/dissertation)
