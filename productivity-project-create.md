@@ -153,3 +153,6 @@ If you want to move something to another day, its easy, just grab the card and m
 If you want to put it all together, add a “TYPE” column that can be either a “TASK” or a “MEETING”. 
 
 ![0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg)
+
+---
+Return to the [home page](index.md).
