@@ -14,50 +14,46 @@ This page shows how to manipulate data in SQL, R & Python.
 
 
 
+## Setup
+ - SQL: there is nothing to setup, this is based on PostgreSQL 
+ - R: We will use the "dplyr" package for data manipulation
+ - Python: We will use the "pandas" package for manipulation
+
+
+
 ## Selecting Columns
 
 A query is a request for data from database table (or combination of tables). 
 
-In SQL you can select data from a table using a SELECT statement. For example, the following query selects the variable1 column from the table1 table(it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table variable1s): 
+In SQL you can select data from a table using a SELECT statement. For example, the following query selects the variable1 column from the table1 table (it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table variables): 
+
+
+
+SQL:
 
 ```sql
+-- SQL
 -- Comments look like this!
 SELECT variable1
 FROM table1;
-```
 
-You can also select multiple columns from a table:
-
-```sql
+-- Select multiple columns
 SELECT variable1, variable2
 FROM table1;
-```
 
-Select all columns:
-
-```sql
+-- Select all columns
 SELECT *
 FROM table1;
-```
 
-If you only want to return a certain number of results, you can use the LIMIT keyword:
-
-```sql
+-- Only view selected number of results
 SELECT *
 FROM table1
 LIMIT 10;
-```
 
-Get unique values using DISTINCT:
-
-```sql
+-- Get unique values
 SELECT DISTINCT variable3
 FROM table2;
-```
 
-You can count the number of rows using COUNT (this also includes missing values):
-
-```sql
 -- Counts all rows in table
 SELECT COUNT(*)
 FROM table1;
@@ -69,6 +65,58 @@ FROM table1;
 -- Count distinct variable2s
 SELECT COUNT(DISTINCT variable2)
 FROM table1;
+
+-- If you want to save your results into a table, use INTO
+SELECT variable1, variable2
+INTO newTable
+FROM table1;
+```
+
+
+
+R:
+
+```r
+# R
+
+# Import library for manipulation
+library("dplyr") # dplyr enables the "%>%" filter tool
+
+# Comments look like this!
+table1 %>% select(variable1)
+
+# Select multiple columns
+table1 %>% select(variable1, variable2)
+
+# Select all columns
+table1
+
+# Only view selected number of results
+head(table1)
+
+# Get unique values
+unique(table1$variable3)
+
+# Counts all rows in table
+nrow(table1)
+
+# Count all rows in column (non-missing)
+nrow(table1)
+
+# Count distinct variable2s
+length(unique(table1$variable2))
+
+# If you want to save your results into a table, assign it to a table
+newTable <- table1 %>% select(variable1, variable2)
+```
+
+
+
+Python:
+
+```python
+# Comments look like this!
+# To do
 ```
 
 
