@@ -12,6 +12,15 @@ This site is all about health related data and how we can best analyse it using 
 ![Figure 1. - Skills](index-plot-py.png)
 
 # News
+2021-09-26
+
+I have created a productivity section with a project template guide. This is the best way to plan your project! Check it out [here](productivity-project-create.md). 
+![BD9377E1-C1C3-4699-BB8E-113CE669E268.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/BD9377E1-C1C3-4699-BB8E-113CE669E268.png)
+
+
+
+2021-08-17
+
 I have created a dashboard that shows the NSW Health data regarding COVID cases in NSW. Dashboard is hosted on the shiny apps server [here](https://philliphungerford.shinyapps.io/covid-tracker-au-nsw/).
 
 ![COVID-19 Tracker](covid-tracker-design.png)
