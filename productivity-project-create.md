@@ -26,10 +26,6 @@ To reiterate, the accumulation of subtasks make up your tasks, and your tasks ma
 
 # STEPS
 
-Here we put this structure into a nice table and we will call it TASKS. It will have all of our tasks and can be filtered by its respective section, group and project. 
-
-![2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg)
-
 ## STEP 1:  GROUPS
 
 You need to find out what groups makes up your project. List them. For our research paper example:
@@ -41,13 +37,7 @@ You need to find out what groups makes up your project. List them. For our resea
 
 Try to make sure your GROUPS have an ordered structure, by completing one at a time. This can make scheduling GROUPS a lot easier and you get the satisfaction of completing a GROUP at a time ( = more dopamine!). 
 
-## STEP 2: CREATE A BOARD AND GROUP BY 'GROUPS'
-
-This view will look great, trust me! Click on ‘Default view’ and make a board view. This way you can see your groups in a visual format. Remember that this is still your TASKS table just visualised differently. 
-
-![CB351855-BE45-40C4-B81E-F59620CDD151.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CB351855-BE45-40C4-B81E-F59620CDD151.jpeg)
-
-## STEP 3: WHAT SECTIONS ARE THESE GROUPS MADE UP OF?
+## STEP 2: WHAT SECTIONS ARE THESE GROUPS MADE UP OF?
 
 1. Introduction
     1. Research
@@ -58,19 +48,7 @@ This view will look great, trust me! Click on ‘Default view’ and make a boar
 3. Results
 4. Conclusion
 
-After you add your sections this is what your board will look like. Click on the three dots on the right next to the ‘New’ button. Go into properties and make sure you can view your sections under visible properties.
-
-![CEA9E127-913A-463C-B927-35A6EF65E4AF.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CEA9E127-913A-463C-B927-35A6EF65E4AF.png)
-
- 
-
-You can order these however you like. 
-
-## STEP 4: PUT THESE IN THE BOARD AS SECTION TAGS
-
-To help, view in table mode and duplicate the GROUP by the number of SECTIONS it has. Here I would have 4 copies of Introduction because there are 4 SECTIONS within it. 
-
-## STEP 5: TASKS
+## STEP 3: TASKS
 
 Now we are getting into the nitty gritty. How can you breakdown each SECTION into 25 min chunks? The key here is to be 100% certain you can do it in 25 mins. If it takes you an hour to read a paper, that's fine, turn that into two tasks. 
 
@@ -90,13 +68,7 @@ Now we are getting into the nitty gritty. How can you breakdown each SECTION int
 
 IMPORTANT! Make sure you can do a task within 25 minutes. If you cannot, break it down further (e.g. Read 50% of paper 1). This way you are also time managing and have achievable goals. 
 
-## STEP 6: Put these tasks into your TASK list
-
-Now if you view in board mode and count the cards, that is how many 30min chunks it will take to complete that GROUP. E.g. if you have 8 cards, that is 4 hours. 
-
-![33A2D3D6-F097-4B87-BC45-84A01E4E71CA.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/33A2D3D6-F097-4B87-BC45-84A01E4E71CA.jpeg)
-
-## STEP 7: MAKE THEM TIME RELATIVE:
+## STEP 4: MAKE THEM TIME RELATIVE:
 
 1. View in table view and add a date column with todays date for all.
 2. Then create a calendar view
@@ -104,15 +76,7 @@ Now if you view in board mode and count the cards, that is how many 30min chunks
 4. Starting with GROUP 1 SECTION 1, distribute your tasks to how many you can complete on a day for the week.
 5. MAKE SURE EACH TASK IS ON A DAY SO YOU DO IT
 
-![E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png)
-
-When you view it in calendar mode:
-
-![97AB056E-F350-48D2-AD7F-CC870CA6A205.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/97AB056E-F350-48D2-AD7F-CC870CA6A205.png)
-
-If you want to move something to another day, its easy, just grab the card and move it to another day.
-
-## STEP 8: Grab a drink and celebrate.
+## STEP 5: Grab a drink and celebrate.
 
 The hardest part of your project is now done. You can relax because you know the exact steps to take all broken down into nice bite size 30 min chunks. If something happens, you can shift a card forward or backward. Its super easy. 
 
@@ -130,28 +94,62 @@ Additionally you may be working working with other people on the this project. W
 
 Your Tasks and Meetings will be scheduled according to Time. It is also important to document these things in your **notes**. 
 
-If you want to put it all together, add a “TYPE” column that can be either a “TASK” or a “MEETING”. 
-
-![0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg)
-
 # Setup
+
+Create a flowchart of your project so you understand how it is structured.
+
+![39B18163-4106-4E00-B839-2E82FD6DEC56.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/39B18163-4106-4E00-B839-2E82FD6DEC56.png)
 
 ## Trello
 
-There are two ways you can use this system in trello. Version 1 is your traditional board setup with TODO, DOING and DONE lists. 
+For each list you have a card for each level 1 item. As you can see for L1-Introduction, there are 8 tasks that need to be done. This represents 8 pomodoro chunks = 4hrs of work left. 
 
-Within each list you have a card for each level 1 item. As you can see for L1-Introduction, there are 8 tasks that need to be done. This represents 8 pomodoro chunks = 4hrs of work left. 
+The other option is to have each card represent a task. Your level 1 items are now lists, level 2 items are tags and level 3 items are cards. This way you can assign a date to each card and when you complete them you tick the completed button. This also allows you to assign cards to people, and keep notes within each of your tasks. For example with Read paper 1, you can put your notes and attach the paper in that specific card.
 
-![8D6F5D7D-4177-4E7D-8FD8-F74CF7EABD68.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/8D6F5D7D-4177-4E7D-8FD8-F74CF7EABD68.png)
+![F4D7F961-F4A6-4695-B3BD-48A006C0225C.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/F4D7F961-F4A6-4695-B3BD-48A006C0225C.png)
 
-Within each level 1 item you have your level 2 items as a separate checklist.
-
-![105E262B-B141-4011-B409-C96B04959344.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/105E262B-B141-4011-B409-C96B04959344.png)
-
-The other option is to have each card represent a task. Your level 1 items are now lists, level 2 items are tags and level 3 items are cards. This way you can assign a date to each card and when you complete them you tick the completed button. This also allows you to assign cards to people, and keep notes within each of your tasks. For example with Read paper 1, you can put your notes in that specific card. 
-
-![CABA56BA-125E-412C-A754-373B0D59CBC6.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CABA56BA-125E-412C-A754-373B0D59CBC6.png)
-
-You can see the level 2 items below.
+You can see the level 2 items below. You may not find level 2 labels useful in Trello, and that is understandable. However identifying your level 2 items are important in your flowchart setup. 
 
 ![1036EA99-1941-4FE3-8F7F-CDCBCAA63007.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/1036EA99-1941-4FE3-8F7F-CDCBCAA63007.png)
+
+## Notion
+
+The process with notion is a bit more complex than Trello but also enables you to customise it to your liking. 
+
+Here we put this structure into a nice table and we will call it TASKS. It will have all of our tasks and can be filtered by its respective section, group and project. 
+
+![2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg)
+
+**Groups**
+
+Create a board view for your tasks. This view will look great, trust me! Click on ‘Default view’ and make a board view. This way you can see your groups in a visual format. Remember that this is still your TASKS table just visualised differently. 
+
+![CB351855-BE45-40C4-B81E-F59620CDD151.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CB351855-BE45-40C4-B81E-F59620CDD151.jpeg)
+
+**Sections**
+
+After you add your sections this is what your board will look like. Click on the three dots on the right next to the ‘New’ button. Go into properties and make sure you can view your sections under visible properties.
+
+![CEA9E127-913A-463C-B927-35A6EF65E4AF.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CEA9E127-913A-463C-B927-35A6EF65E4AF.png)
+
+ 
+
+You can order these however you like. 
+
+To help, view in table mode and duplicate the GROUP by the number of SECTIONS it has. Here I would have 4 copies of Introduction because there are 4 SECTIONS within it. 
+
+Now if you view in board mode and count the cards, that is how many 30min chunks it will take to complete that GROUP. E.g. if you have 8 cards, that is 4 hours. 
+
+![684E25EB-3939-4527-BB15-9718B288B87F.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/684E25EB-3939-4527-BB15-9718B288B87F.png)
+
+![E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png)
+
+When you view it in calendar mode:
+
+![97AB056E-F350-48D2-AD7F-CC870CA6A205.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/97AB056E-F350-48D2-AD7F-CC870CA6A205.png)
+
+If you want to move something to another day, its easy, just grab the card and move it to another day.
+
+If you want to put it all together, add a “TYPE” column that can be either a “TASK” or a “MEETING”. 
+
+![0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg)
