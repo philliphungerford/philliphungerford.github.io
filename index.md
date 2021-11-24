@@ -96,7 +96,7 @@ I have created a dashboard that shows the NSW Health data regarding COVID cases 
 
 # About Me
 
-If you would like to know more about me, click [here](about.md).
+If you would like to know more about me, click [here](about.md) or visit my github [here](https://github.com/philliphungerford).
 
 
 
