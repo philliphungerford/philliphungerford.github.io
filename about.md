@@ -38,11 +38,31 @@ Selected Coursework: Machine learning and Data mining (HD), Statistical Modellin
 
 # Experience
 
+**Data Analyst**
 
+*NSW Health Cancer Institute, November 2021 - Current*
+
+> - Contributed to the ongoing development and maintenance of new and existing datasets, reports and reporting systems (including 
+the Cancer Statistics NSW module, the Institute Data Warehouse and the Reporting for Better 
+Outcomes Program).
+> - Performed data validation and quality control activities on cancer and cancer-related data, datasets and 
+reports to ensure they are ‘fit for purpose’.
+> - Provided input into the development and maintenance of automated and repeatable programs to enable 
+efficient dataset production, data validation and/or quality control activities.
+> - Engineered automated pipelines for routine datasets and outputs to support ongoing collaborations with 
+international, national and other state/ territory agencies.
+> - Provided input into the development and maintenance of the Institutes’ datasets, including data 
+dictionaries, data quality statements, data usage notes and caveats, to support greater understanding 
+and use of the Institutes’ data assets.
+> - Contributed to the development of standard operating procedures, to ensure consistent and replicable 
+methods for preparing, analysing and reporting on cancer data are used.
+> - Undertook analyses in response to data queries from researchers, local health districts, clinicians and 
+the general public.
+> - Engineered data visualisation platforms using R Shiny to gather key insights from created datasets
 
 **Health Analytics Consultant**
 
-*Prospection, November 2020 - Current*
+*Prospection, November 2020 - October 2021*
 
 > - Demonstrated efficient and accurate data manipulation skills in the management and analysis of longitudinal data and linked data with Pharmaceutical Benefits Scheme (PBS) data & Medicare Benefits Schedule linked datasets
 > - Demonstrated ability to work with hospital researchers from other disciplines and other stakeholders when working on projects using overseas datasets, and health care professionals when researching rare diseases
