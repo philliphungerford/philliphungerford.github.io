@@ -9,7 +9,7 @@ This site is all about health related data and how we can best analyse it using 
 - 👨‍💻 DATA SCIENCE
   
   - [Data Manipulation (SQL, Python, R)](tutorials-programming-01.md)
-    [Statistics](statistics-list.md)
+  - [Statistics](statistics-list.md)
 
 - 🧠 PRODUCTIVITY
   
