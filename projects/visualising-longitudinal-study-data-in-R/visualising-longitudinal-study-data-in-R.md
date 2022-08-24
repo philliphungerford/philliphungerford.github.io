@@ -1,6 +1,6 @@
 # Visualising longitudinal study data in R
 
-github:  [Visualising longitudinal study data in R](https://github.com/philliphungerford/ndarc-point-dashboard)
+Github:  [Visualising longitudinal study data in R](https://github.com/philliphungerford/ndarc-point-dashboard)
 
 
 ---

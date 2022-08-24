@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "datascience/statistics/fundamentals/fundamentals.md",
+            "file": "projects/covid-19-tracker/covid-19-tracker.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md",
+                "file": "projects/covid-19-tracker/covid-19-tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md",
+                "file": "projects/covid-19-tracker/covid-19-tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md"
+                "file": "projects/covid-19-tracker/covid-19-tracker.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "91084cf045ea49e9",
   "lastOpenFiles": [
+    "index.md",
     "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
+    "projects/covid-19-tracker/covid-19-tracker.md",
+    "productivity/project-template/project-template.md",
+    "datascience/statistics/fundamentals/fundamentals.md",
     "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
     "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
-    "projects/covid-19-tracker/covid-19-tracker.md",
-    "index.md",
     "datascience/statistics/survival-analysis/survival-analysis.md",
     "datascience/statistics/statistics.md",
-    "datascience/statistics/fundamentals/fundamentals.md",
-    "datascience/data-manipulation/data-manipulation.md",
-    "about/about.md"
+    "datascience/data-manipulation/data-manipulation.md"
   ]
 }
