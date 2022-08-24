@@ -17,7 +17,7 @@ This site is all about health related data and how we can best analyse it using 
 
 - 📁 PROJECTS
   
-  - [Identifying 3D organ scans using AI](identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md)
+  - [Identifying 3D organ scans using AI](projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md)
   
   - [Predicting prostate cancer plan violations using AI](projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md)
   
