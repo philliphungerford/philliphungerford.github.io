@@ -2,11 +2,7 @@
 layout: default
 ---
 
-
-
 # Statistics
-
-
 
 ## Fundamentals
 
@@ -37,4 +33,4 @@ layout: default
 
 
 ---
-Return to the [home page](../../index.md).
+Return to the [home page](../../../index.md).

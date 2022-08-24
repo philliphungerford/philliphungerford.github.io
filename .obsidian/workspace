@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
+            "file": "datascience/statistics/survival-analysis/survival-analysis.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "datascience/statistics/survival-analysis/survival-analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "datascience/statistics/survival-analysis/survival-analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "datascience/statistics/survival-analysis/survival-analysis.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "91084cf045ea49e9",
   "lastOpenFiles": [
-    "productivity/project-template/project-template.md",
     "index.md",
-    "projects/covid-19-tracker/covid-19-tracker.md",
-    "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
-    "datascience/statistics/fundamentals/fundamentals.md",
-    "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
-    "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
     "datascience/statistics/survival-analysis/survival-analysis.md",
     "datascience/statistics/statistics.md",
+    "datascience/statistics/fundamentals/fundamentals.md",
+    "productivity/project-template/project-template.md",
+    "projects/covid-19-tracker/covid-19-tracker.md",
+    "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
+    "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
+    "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
     "datascience/data-manipulation/data-manipulation.md"
   ]
 }
