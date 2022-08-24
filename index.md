@@ -6,14 +6,18 @@ layout: default
 
 This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
 
+
 - 👨‍💻 DATA SCIENCE
   
   - [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
+  
   - [Statistics](datascience/statistics/statistics.md)
 
+
 - 🧠 PRODUCTIVITY
-  
+
   - [The best way to plan a project](productivity/project-template/project-template.md)
+
 
 - 📁 PROJECTS
   
