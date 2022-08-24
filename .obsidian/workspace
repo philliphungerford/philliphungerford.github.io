@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4993ae81be1eddf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "91084cf045ea49e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a81c83d28c3db67c",
+    "type": "split",
+    "children": [
+      {
+        "id": "41c115cfed93efa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8955ce1034a3a242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "86e65de495248a8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fea24c761e468703",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 417.5
+  },
+  "right": {
+    "id": "36606d1ccfb10a0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "19316c9de8afe49d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b744793721d7783",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "285038b9798ef458",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f2c17dc9fcb70098",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76e73b8ce7dd6e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8955ce1034a3a242",
+  "lastOpenFiles": [
+    "about/about.md",
+    "index.md",
+    "productivity/project-template/project-template.md",
+    "datascience/tutorials-programming-01.md",
+    "_images/covid-tracker-design.png",
+    "_templates/template-topic-subtopic.md",
+    "productivity/project-template/_images/tasks-7.jpeg",
+    "productivity/project-template/_images/tasks-6.png",
+    "productivity/project-template/_images/tasks-5.png",
+    "productivity/project-template/_images/tasks-4.png"
+  ]
+}

@@ -13,7 +13,7 @@ This site is all about health related data and how we can best analyse it using 
 
 - 🧠 PRODUCTIVITY
   
-  - [The best way to plan a project](productivity-project-create.md)
+  - [The best way to plan a project](project-template.md)
 
 - 📁 PROJECTS
   

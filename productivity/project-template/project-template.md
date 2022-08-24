@@ -22,7 +22,7 @@ To reiterate, the accumulation of subtasks make up your tasks, and your tasks ma
 
 **Figure 1. - Project Make up**
 
-![BD9377E1-C1C3-4699-BB8E-113CE669E268.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/BD9377E1-C1C3-4699-BB8E-113CE669E268.png)
+![project-makeup.png](project-makeup.png)
 
 # STEPS
 
@@ -98,7 +98,7 @@ Your Tasks and Meetings will be scheduled according to Time. It is also importan
 
 Create a flowchart of your project so you understand how it is structured.
 
-![39B18163-4106-4E00-B839-2E82FD6DEC56.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/39B18163-4106-4E00-B839-2E82FD6DEC56.png)
+![project-flowchart.png](project-flowchart.png)
 
 ## Trello
 
@@ -106,11 +106,11 @@ For each list you have a card for each level 1 item. As you can see for L1-Intro
 
 The other option is to have each card represent a task. Your level 1 items are now lists, level 2 items are tags and level 3 items are cards. This way you can assign a date to each card and when you complete them you tick the completed button. This also allows you to assign cards to people, and keep notes within each of your tasks. For example with Read paper 1, you can put your notes and attach the paper in that specific card.
 
-![F4D7F961-F4A6-4695-B3BD-48A006C0225C.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/F4D7F961-F4A6-4695-B3BD-48A006C0225C.png)
+![trello-preview-1.png](trello-preview-1.png)
 
 You can see the level 2 items below. You may not find level 2 labels useful in Trello, and that is understandable. However identifying your level 2 items are important in your flowchart setup. 
 
-![1036EA99-1941-4FE3-8F7F-CDCBCAA63007.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/1036EA99-1941-4FE3-8F7F-CDCBCAA63007.png)
+![trello-preview-2.png](trello-preview-2.png)
 
 ## Notion
 
@@ -118,19 +118,19 @@ The process with notion is a bit more complex than Trello but also enables you t
 
 Here we put this structure into a nice table and we will call it TASKS. It will have all of our tasks and can be filtered by its respective section, group and project. 
 
-![2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/2202CBD5-023F-49A2-94C2-725267C4B1D8.jpeg)
+![tasks-1.jpeg](tasks-1.jpeg)
 
 **Groups**
 
 Create a board view for your tasks. This view will look great, trust me! Click on ‘Default view’ and make a board view. This way you can see your groups in a visual format. Remember that this is still your TASKS table just visualised differently. 
 
-![CB351855-BE45-40C4-B81E-F59620CDD151.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CB351855-BE45-40C4-B81E-F59620CDD151.jpeg)
+![tasks-2.jpeg](tasks-2.jpeg)
 
 **Sections**
 
 After you add your sections this is what your board will look like. Click on the three dots on the right next to the ‘New’ button. Go into properties and make sure you can view your sections under visible properties.
 
-![CEA9E127-913A-463C-B927-35A6EF65E4AF.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/CEA9E127-913A-463C-B927-35A6EF65E4AF.png)
+![tasks-3.png](tasks-3.png)
 
  
 
@@ -140,19 +140,19 @@ To help, view in table mode and duplicate the GROUP by the number of SECTIONS it
 
 Now if you view in board mode and count the cards, that is how many 30min chunks it will take to complete that GROUP. E.g. if you have 8 cards, that is 4 hours. 
 
-![684E25EB-3939-4527-BB15-9718B288B87F.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/684E25EB-3939-4527-BB15-9718B288B87F.png)
+![tasks-4.png](tasks-4.png)
 
-![E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/E67BE2F5-36E6-4907-8CDE-DD1403E44B9E.png)
+![tasks-5.png](tasks-5.png)
 
 When you view it in calendar mode:
 
-![97AB056E-F350-48D2-AD7F-CC870CA6A205.png](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/97AB056E-F350-48D2-AD7F-CC870CA6A205.png)
+![tasks-6.png](tasks-6.png)
 
 If you want to move something to another day, its easy, just grab the card and move it to another day.
 
 If you want to put it all together, add a “TYPE” column that can be either a “TASK” or a “MEETING”. 
 
-![0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg](PROJECT%20TEMPLATE%205b934baaf28742ffb58641d92d945933/0625B13C-1A45-4D2A-8C97-05034CE94FD9.jpeg)
+![tasks-7.jpeg](tasks-7.jpeg)
 
 ---
 Return to the [home page](index.md).
