@@ -2,9 +2,9 @@
 
 > - Tutorials
 >   - Programming
->     - [Data Manipulation (SQL, Python, R)](tutorials-programming-01.md)
+>     - [Data Manipulation (SQL, Python, R)](data-manipulation.md)
 >   - Statistics
->     - [Fundamentals](statistics-fundamentals.md)
+>     - [Fundamentals](fundamentals.md)
 >       - Frequency distributions and graphing
 >       - Rankings in a distribution
 >       - Central tendency
@@ -32,7 +32,7 @@
 >       - Generalised Linear Mixed Effects Models
 >       - Multilevel Modelling
 >       - Missing Data and Dropout
->       - [Time-To-Event (Survival) Analysis](statistics-lda-survival.md)
+>       - [Time-To-Event (Survival) Analysis](survival-analysis.md)
 >     - Machine Learning
 >       - Supervised
 >         - Classification and Regression
@@ -55,3 +55,6 @@
 >           - DBSCAN
 >           - Comparing Clustering Algorithms
 >       - Model Evaluation and Improvement
+
+---
+Return to the [home page](index.md).

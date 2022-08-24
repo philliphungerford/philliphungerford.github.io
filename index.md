@@ -8,26 +8,26 @@ This site is all about health related data and how we can best analyse it using 
 
 - 👨‍💻 DATA SCIENCE
   
-  - [Data Manipulation (SQL, Python, R)](tutorials-programming-01.md)
-  - [Statistics](statistics-list.md)
+  - [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
+  - [Statistics](datascience/statistics/statistics.md)
 
 - 🧠 PRODUCTIVITY
   
-  - [The best way to plan a project](project-template.md)
+  - [The best way to plan a project](productivity/project-template/project-template.md)
 
 - 📁 PROJECTS
   
-  - [Identifying 3D organ scans using AI](https://github.com/philliphungerford/dissertation)
+  - [Identifying 3D organ scans using AI](identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md)
   
-  - [Predicting prostate cancer plan violations using AI](https://github.com/philliphungerford/dissertation)
+  - [Predicting prostate cancer plan violations using AI](predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md)
   
-  - [Visualising longitudinal study data in R](https://github.com/philliphungerford/ndarc-point-dashboard)
+  - [Visualising longitudinal study data in R](projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md)
   
-  - [COVID-19 Tracker NSW](https://philliphungerford.shinyapps.io/covid-tracker-au-nsw/)
+  - [COVID-19 Tracker NSW](projects/covid-19-tracker/covid-19-tracker.md)
 
 # About Me
 
-If you would like to know more about me, click [here](about.md) or visit my github [here](https://github.com/philliphungerford).
+If you would like to know more about me, click [here](about/about.md) or visit my github [here](https://github.com/philliphungerford).
 
 ```
 “Data is a precious thing and will last longer than the systems themselves.” - Tim Berners-Lee
