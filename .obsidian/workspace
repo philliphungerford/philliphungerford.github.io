@@ -130,15 +130,15 @@
   },
   "active": "91084cf045ea49e9",
   "lastOpenFiles": [
-    "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
+    "about/about.md",
     "index.md",
+    "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
     "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
     "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
     "projects/covid-19-tracker/covid-19-tracker.md",
     "productivity/project-template/project-template.md",
     "datascience/visualisations/power-bi/basic-dashboard/basic-dashboard.md",
     "datascience/visualisations/power-bi/power-bi.md",
-    "datascience/statistics/statistics.md",
-    "datascience/statistics/survival-analysis/survival-analysis.md"
+    "datascience/statistics/statistics.md"
   ]
 }
