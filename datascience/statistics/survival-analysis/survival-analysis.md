@@ -17,5 +17,4 @@ Body
 ``` code ```
 
 ---
-Return to the [home page](index.md).
-
+Return to the [home page](../../../index.md).

@@ -7,4 +7,4 @@ See the dashboard here: [COVID-19 Tracker NSW](https://philliphungerford.shinyap
 
 
 ---
-Return to the [home page](index.md).
+Return to the [home page](../../index.md).
