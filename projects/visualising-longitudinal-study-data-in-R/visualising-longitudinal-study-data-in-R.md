@@ -4,4 +4,4 @@ Github:  [Visualising longitudinal study data in R](https://github.com/philliphu
 
 
 ---
-Return to the [home page](../../index.md).
+Return to the [homepage](../../index.md).

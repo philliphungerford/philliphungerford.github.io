@@ -8,4 +8,4 @@ Github: [here](https://github.com/philliphungerford/covid-tracker-au-nsw)
 
 
 ---
-Return to the [home page](../../index.md).
+Return to the [homepage](../../index.md).

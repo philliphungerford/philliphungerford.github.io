@@ -155,4 +155,4 @@ If you want to put it all together, add a “TYPE” column that can be either a
 ![tasks-7](_images/tasks-7.jpeg)
 
 ---
-Return to the [home page](../../index.md).
+Return to the [homepage](../../index.md).

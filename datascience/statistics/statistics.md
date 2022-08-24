@@ -53,4 +53,4 @@
 >   - Model Evaluation and Improvement
 
 ---
-Return to the [home page](../../index.md).
+Return to the [homepage](../../index.md).

@@ -4,4 +4,4 @@ Github:  [Identifying 3D organ scans using AI](https://github.com/philliphungerf
 
 
 ---
-Return to the [home page](../../index.md).
+Return to the [homepage](../../index.md).
