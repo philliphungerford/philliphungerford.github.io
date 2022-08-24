@@ -22,7 +22,7 @@ To reiterate, the accumulation of subtasks make up your tasks, and your tasks ma
 
 **Figure 1. - Project Make up**
 
-![project-makeup.png](_images/project-makeup.png)
+![project makeup](_images/project-makeup.png)
 
 # STEPS
 
@@ -98,7 +98,7 @@ Your Tasks and Meetings will be scheduled according to Time. It is also importan
 
 Create a flowchart of your project so you understand how it is structured.
 
-![project-flowchart.png](_images/project-flowchart.png)
+![project flowchart.png](_images/project-flowchart.png)
 
 ## Trello
 
@@ -106,11 +106,11 @@ For each list you have a card for each level 1 item. As you can see for L1-Intro
 
 The other option is to have each card represent a task. Your level 1 items are now lists, level 2 items are tags and level 3 items are cards. This way you can assign a date to each card and when you complete them you tick the completed button. This also allows you to assign cards to people, and keep notes within each of your tasks. For example with Read paper 1, you can put your notes and attach the paper in that specific card.
 
-![trello-preview-1.png](_images/trello-preview-1.png)
+![trello-preview-1](_images/trello-preview-1.png)
 
 You can see the level 2 items below. You may not find level 2 labels useful in Trello, and that is understandable. However identifying your level 2 items are important in your flowchart setup. 
 
-![trello-preview-2.png](_images/trello-preview-2.png)
+![trello-preview-2](_images/trello-preview-2.png)
 
 ## Notion
 
@@ -118,19 +118,19 @@ The process with notion is a bit more complex than Trello but also enables you t
 
 Here we put this structure into a nice table and we will call it TASKS. It will have all of our tasks and can be filtered by its respective section, group and project. 
 
-![tasks-1.jpeg](_images/tasks-1.jpeg)
+![tasks-1](_images/tasks-1.jpeg)
 
 **Groups**
 
 Create a board view for your tasks. This view will look great, trust me! Click on ‘Default view’ and make a board view. This way you can see your groups in a visual format. Remember that this is still your TASKS table just visualised differently. 
 
-![tasks-2.jpeg](_images/tasks-2.jpeg)
+![tasks-2](_images/tasks-2.jpeg)
 
 **Sections**
 
 After you add your sections this is what your board will look like. Click on the three dots on the right next to the ‘New’ button. Go into properties and make sure you can view your sections under visible properties.
 
-![tasks-3.png](_images/tasks-3.png)
+![tasks-3](_images/tasks-3.png)
 
  
 
@@ -140,19 +140,19 @@ To help, view in table mode and duplicate the GROUP by the number of SECTIONS it
 
 Now if you view in board mode and count the cards, that is how many 30min chunks it will take to complete that GROUP. E.g. if you have 8 cards, that is 4 hours. 
 
-![tasks-4.png](_images/tasks-4.png)
+![tasks-4](_images/tasks-4.png)
 
-![tasks-5.png](_images/tasks-5.png)
+![tasks-5](_images/tasks-5.png)
 
 When you view it in calendar mode:
 
-![tasks-6.png](_images/tasks-6.png)
+![tasks-6](_images/tasks-6.png)
 
 If you want to move something to another day, its easy, just grab the card and move it to another day.
 
 If you want to put it all together, add a “TYPE” column that can be either a “TASK” or a “MEETING”. 
 
-![tasks-7.jpeg](_images/tasks-7.jpeg)
+![tasks-7](_images/tasks-7.jpeg)
 
 ---
-Return to the [home page](index.md).
+Return to the [home page](../../index.md).
