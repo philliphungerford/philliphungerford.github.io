@@ -380,4 +380,4 @@ WHERE id = '1234';
 ```
 
 ---
-Return to the [home page](index.md).
+Return to the [home page]([philliphungerford.github.io/index.md at main · philliphungerford/philliphungerford.github.io](https://github.com/philliphungerford/philliphungerford.github.io/blob/main/index.md)).
