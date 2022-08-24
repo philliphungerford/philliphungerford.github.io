@@ -5,3 +5,13 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 <link rel="shortcut icon" type="image/x-icon" href="https://emojipedia.org/man-scientist/#:~:text=Mudar%20o%20idioma-,%F0%9F%91%A8%E2%80%8D%F0%9F%94%AC,-Man%20Scientist">
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LT4RR0NGPM"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LT4RR0NGPM');
+</script>
