@@ -157,9 +157,13 @@ We can filter based on the WHERE keyword with any of the comparison operators:
 - ```< = less than or equal to```
 - ```> = greater than or equal to```
 
-In action:
+
+
+SQL:
 
 ```sql
+-- SQL
+
 -- Get all data from table2 where variable 4 is term
 SELECT variable4
 FROM table2
@@ -173,24 +177,19 @@ WHERE variable5 = 2016;
 SELECT * 
 FROM table2
 WHERE variable3 = 'otherterm';
-```
 
-***WHERE ALWAYS COMES AFTER FROM***
 
-The AND clause can be used for multiple conditions:
+-- WHERE ALWAYS COMES AFTER FROM
+-- The AND clause can be used for multiple conditions:
 
-```sql
 SELECT variable4 
 FROM table2
 WHERE variable5 > 1994
 AND variable5 < 2000;
-```
 
-**You need to specify the column variable1 separately for every AND condition.** 
+-- **You need to specify the column variable1 separately for every AND condition.**
+-- The OR works where some but not all of the conditions need to be met:
 
-The OR works where some but not all of the conditions need to be met:
-
-```sql
 SELECT variable4 
 FROM table2
 WHERE variable5 = 1994
@@ -201,12 +200,12 @@ SELECT variable4
 FROM table2
 WHERE (variable5 = 1994 OR variable5 = 1995)
 AND (variable6 = 'PG' OR variable6 = 'R');
-```
 
-To get items in between values you can use the BETWEEN clause:
 
-```sql
+-- To get items in between values you can use the BETWEEN clause:
+
 -- BETWEEN is inclusive so 1994 and 2000 will be included in results
+
 SELECT variable4
 FROM table2
 WHERE variable5
@@ -223,19 +222,16 @@ SELECT variable4, variable5
 FROM table2
 WHERE variable5
 BETWEEN 1990 AND 2000;
-```
 
-The IN operator to include specific items:
+-- The IN operator to include specific items:
 
-```sql
 SELECT variable1
 FROM table3
 WHERE variable7 IN (2,4,6,8,10);
-```
 
-Missing values can be identified using NULL or ISNULL:
 
-```sql
+-- Missing values can be identified using NULL or ISNULL:
+
 SELECT COUNT(*)
 FROM table1
 WHERE variable2 IS NULL;
@@ -244,21 +240,17 @@ WHERE variable2 IS NULL;
 SELECT variable1
 FROM table1
 WHERE variable2 IS NOT NULL;
-```
 
-Searching for patterns using LIKE and NOT LIKE. We can add a wildcard to act as a placeholder for other values. The first is % which will match zero, one or my characters in text.
-
-```sql
+-- Searching for patterns using LIKE and NOT LIKE. We can add a wildcard to act as a placeholder for other values. The first is % which will match zero, one or my characters in text.
 SELECT variable1 
 FROM table4
 WHERE variable1 LIKE 'Patte%';
-```
 
-Will return ‘Data’ , ‘DataCamp’, ‘DataMind’.
 
-The next wildcard is _ . This will match a single character.
+-- Will return ‘Data’ , ‘DataCamp’, ‘DataMind’.
 
-```sql
+-- The next wildcard is _ . This will match a single character.
+
 SELECT variable1
 FROM table4
 WHERE variable1 LIKE 'P_ttern';
@@ -267,28 +259,31 @@ WHERE variable1 LIKE 'P_ttern';
 SELECT variable1
 FROM table1
 WHERE variable1 NOT LIKE 'P%';
+
 ```
 
 ## Aggregate functions
 
 Aggregate functions such as MIN, MAX, AVG, SUM
 
+
+
+SQL:
+
 ```sql
+-- SQL
+-- Aggregate functions such as MIN, MAX, AVG, SUM
 SELECT MIN(variable6)
 FROM table2
-```
 
-Combine aggregate functions with WHERE
+-- Combine aggregate functions with WHERE
 
-```sql
 SELECT SUM(variable7)
 FROM table2
 WHERE variable5 >= 2010;
-```
 
-You can perform basic arithmetic too 
+-- You can perform basic arithmetic too
 
-```sql
 SELECT (4 * 3);
 -- Returns 12
 
@@ -297,11 +292,10 @@ SELECT(4 / 3);
 
 SELECT(4.0 / 3.0) AS result;
 -- Returns 1.333
-```
 
-Aliasing allows you to variable1 results when returning multiple of the same aggregated results
+-- Aliasing allows you to variable1 results when returning multiple of the same aggregated results
 
-```sql
+
 -- This will return 2 max columns
 SELECT MAX(variable7), MAX(variable6)
 FROM table2;
@@ -309,15 +303,19 @@ FROM table2;
 -- will return clearer results
 SELECT MAX(variable7) AS max_variable7, MAX(variable6) AS max_variable6
 FROM table2;
+
 ```
+
+
 
 ## Sorting and grouping
 
-We can sort data using ORDER BY.
-
-It defaults to ascending so if you want to go descending you need to specify. 
+SQL: 
 
 ```sql
+-- SQl
+--We can sort data using ORDER BY.
+-- It defaults to ascending so if you want to go descending you need to specify.
 -- ascending
 SELECT variable1
 FROM table1
@@ -332,54 +330,51 @@ ORDER BY variable1 DESC;
 SELECT variable1, variable2
 FROM table1
 ORDER BY variable1, variable2;
-```
 
-You can aggregate results using GROUP BY.
+-- You can aggregate results using GROUP BY.
 
-```sql
 SELECT variable8, COUNT(*)
 FROM table5
 GROUP BY variable8;
-```
 
-We can also order our results
+--We can also order our results
 
-```sql
 SELECT variable5, variable8
 FROM table2
 GROUP BY variable5, variable8
 ORDER BY variable5, variable8;
-```
 
-In SQL, aggregate functions can't be used in WHERE clauses. This means that if you want to filter based on the result of an aggregate function, you need another way! That's where the HAVING clause comes in. For example:
+-- In SQL, aggregate functions can't be used in WHERE clauses. This means that if you want to filter based on the result of an aggregate function, you need another way! That's where the HAVING clause comes in. For example:
 
-```sql
 SELECT variable5
 FROM table2
 GROUP BY variable5
 HAVING COUNT(variable4) > 10; 
-```
 
-Putting it all together
-
-```sql
+--Putting it all together
 SELECT variable5, AVG(variable7) AS avg_variable7, AVG(variable9) AS avg_variable9
 FROM table2
 WHERE variable5 > 1990
 GROUP BY variable5
 HAVING AVG(variable7) > 60000000
 ORDER BY avg_variable9 DESC;
+
+
 ```
 
 ## Getting data across multiple tables using JOIN
 
 In the real world however, you will often want to query multiple tables. 
 
-In this case, you'd want to get the ID of all of the people from ```table_ids``` and then use it to get their ```name``` from ```table_names``` . In SQL, this concept is known as a **join**, and a basic join is shown in the editor to the right.
 
-The query in the editor gets the IMDB score for the film *To Kill a Mockingbird*! Cool right?
+
+SQL:
 
 ```sql
+-- SQL
+
+--In this case, you'd want to get the ID of all of the people from ```table_ids``` and then use it to get their ```name``` from ```table_names``` . In SQL, this concept is known as a **join**, and a basic join is shown in the editor to the right.
+
 -- Select the variables you are interested in 
 SELECT id, name
 -- We are getting id's from table_ids
