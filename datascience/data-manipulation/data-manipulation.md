@@ -2,8 +2,6 @@
 
 This page shows how to manipulate data in SQL, R & Python.
 
-
-
 **Contents:**
 
 - Selecting Columns
@@ -12,22 +10,17 @@ This page shows how to manipulate data in SQL, R & Python.
 - Sorting and Grouping
 - Getting data across multiple tables using JOIN
 
-
-
 ## Setup
- - SQL: there is nothing to setup, this is based on PostgreSQL 
- - R: We will use the "dplyr" package for data manipulation
- - Python: We will use the "pandas" package for manipulation
 
-
+- SQL: there is nothing to setup, this is based on PostgreSQL 
+- R: We will use the "dplyr" package for data manipulation
+- Python: We will use the "pandas" package for manipulation
 
 ## Selecting Columns
 
 A query is a request for data from database table (or combination of tables). 
 
 In SQL you can select data from a table using a SELECT statement. For example, the following query selects the variable1 column from the table1 table (it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table variables): 
-
-
 
 SQL:
 
@@ -72,8 +65,6 @@ INTO newTable
 FROM table1;
 ```
 
-
-
 R:
 
 ```r
@@ -110,16 +101,50 @@ length(unique(table1$variable2))
 newTable <- table1 %>% select(variable1, variable2)
 ```
 
-
-
 Python:
 
 ```python
-# Comments look like this!
-# To do
+# Python
+
+# Import library for manipulation
+import pandas as pd
+
+# Select a column
+table1[[variable1]]
+
+# Select multiple columns
+table1[[variable1, variable2]]
+
+# Select all columns
+table1
+
+# Only view selected number of results (number of rows to display)
+table1.head(10)
+
+# Get unique values
+table1[variable3].unique()
+
+# Counts all rows in table
+table1.shape[0]
+
+# Count all rows in column (non-missing)
+table1.notnull().sum()
+
+# Count distinct variable2s
+table1[variable3].unique().sum()
+
+# If you want to save your results into a table, assign it to a table
+newTable = table1[[variable1, variable2]]
+
+# rename columns
+newTable.rename(columns = {'OldName':'newName'})
+
+# row merge 
+pd.concat([table1, table2])
+
+# merge (left join)
+table1.merge(table2, on='variable1', how = 'left')
 ```
-
-
 
 ## Filtering rows
 
@@ -131,8 +156,6 @@ We can filter based on the WHERE keyword with any of the comparison operators:
 - ```> greater than```
 - ```< = less than or equal to```
 - ```> = greater than or equal to```
-
-
 
 In action:
 
@@ -152,11 +175,7 @@ FROM table2
 WHERE variable3 = 'otherterm';
 ```
 
-
-
 ***WHERE ALWAYS COMES AFTER FROM***
-
-
 
 The AND clause can be used for multiple conditions:
 
@@ -250,8 +269,6 @@ FROM table1
 WHERE variable1 NOT LIKE 'P%';
 ```
 
-
-
 ## Aggregate functions
 
 Aggregate functions such as MIN, MAX, AVG, SUM
@@ -293,8 +310,6 @@ FROM table2;
 SELECT MAX(variable7) AS max_variable7, MAX(variable6) AS max_variable6
 FROM table2;
 ```
-
-
 
 ## Sorting and grouping
 
@@ -356,8 +371,6 @@ HAVING AVG(variable7) > 60000000
 ORDER BY avg_variable9 DESC;
 ```
 
-
-
 ## Getting data across multiple tables using JOIN
 
 In the real world however, you will often want to query multiple tables. 
@@ -380,4 +393,5 @@ WHERE id = '1234';
 ```
 
 ---
+
 Return to the [homepage](../../index.md).
