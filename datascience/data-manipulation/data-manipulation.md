@@ -20,9 +20,9 @@ This page shows how to manipulate data in SQL, R & Python.
 
 A query is a request for data from database table (or combination of tables). 
 
-In SQL you can select data from a table using a SELECT statement. For example, the following query selects the variable1 column from the table1 table (it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table variables): 
+### SQL:
 
-SQL:
+In SQL you can select data from a table using a SELECT statement. For example, the following query selects the variable1 column from the table1 table (it is good practice to make SQL keywords uppercase to distinguish them from other parts of your query, like column and table variables):
 
 ```sql
 -- SQL
@@ -65,7 +65,7 @@ INTO newTable
 FROM table1;
 ```
 
-R:
+### R:
 
 ```r
 # R
@@ -101,7 +101,7 @@ length(unique(table1$variable2))
 newTable <- table1 %>% select(variable1, variable2)
 ```
 
-Python:
+### Python:
 
 ```python
 # Python
@@ -142,24 +142,20 @@ newTable.rename(columns = {'OldName':'newName'})
 # row merge 
 pd.concat([table1, table2])
 
-# merge (left join)
-table1.merge(table2, on='variable1', how = 'left')
 ```
 
 ## Filtering rows
 
+### SQL:
+
 We can filter based on the WHERE keyword with any of the comparison operators:
 
-- ```= equal```
-- ```<> not equal```
-- ```< less than```
-- ```> greater than```
-- ```< = less than or equal to```
-- ```> = greater than or equal to```
-
-
-
-SQL:
+- `= equal`
+- `<> not equal`
+- `< less than`
+- `> greater than`
+- `< = less than or equal to`
+- `> = greater than or equal to`
 
 ```sql
 -- SQL
@@ -177,7 +173,6 @@ WHERE variable5 = 2016;
 SELECT * 
 FROM table2
 WHERE variable3 = 'otherterm';
-
 
 -- WHERE ALWAYS COMES AFTER FROM
 -- The AND clause can be used for multiple conditions:
@@ -200,7 +195,6 @@ SELECT variable4
 FROM table2
 WHERE (variable5 = 1994 OR variable5 = 1995)
 AND (variable6 = 'PG' OR variable6 = 'R');
-
 
 -- To get items in between values you can use the BETWEEN clause:
 
@@ -229,7 +223,6 @@ SELECT variable1
 FROM table3
 WHERE variable7 IN (2,4,6,8,10);
 
-
 -- Missing values can be identified using NULL or ISNULL:
 
 SELECT COUNT(*)
@@ -246,7 +239,6 @@ SELECT variable1
 FROM table4
 WHERE variable1 LIKE 'Patte%';
 
-
 -- Will return ‘Data’ , ‘DataCamp’, ‘DataMind’.
 
 -- The next wildcard is _ . This will match a single character.
@@ -259,16 +251,13 @@ WHERE variable1 LIKE 'P_ttern';
 SELECT variable1
 FROM table1
 WHERE variable1 NOT LIKE 'P%';
-
 ```
 
 ## Aggregate functions
 
+### SQL:
+
 Aggregate functions such as MIN, MAX, AVG, SUM
-
-
-
-SQL:
 
 ```sql
 -- SQL
@@ -295,7 +284,6 @@ SELECT(4.0 / 3.0) AS result;
 
 -- Aliasing allows you to variable1 results when returning multiple of the same aggregated results
 
-
 -- This will return 2 max columns
 SELECT MAX(variable7), MAX(variable6)
 FROM table2;
@@ -303,14 +291,11 @@ FROM table2;
 -- will return clearer results
 SELECT MAX(variable7) AS max_variable7, MAX(variable6) AS max_variable6
 FROM table2;
-
 ```
-
-
 
 ## Sorting and grouping
 
-SQL: 
+### SQL:
 
 ```sql
 -- SQl
@@ -358,17 +343,13 @@ WHERE variable5 > 1990
 GROUP BY variable5
 HAVING AVG(variable7) > 60000000
 ORDER BY avg_variable9 DESC;
-
-
 ```
 
 ## Getting data across multiple tables using JOIN
 
 In the real world however, you will often want to query multiple tables. 
 
-
-
-SQL:
+### SQL:
 
 ```sql
 -- SQL
@@ -385,6 +366,29 @@ JOIN table_names
 ON table_ids.id = table_names.name
 -- And we are selecting only those with the specified id
 WHERE id = '1234';
+```
+
+### R:
+
+```r
+# R
+# merge/join (dplyr can also detect value to merge on)
+table1 %>% left_join(table2,  by = 'variable1')
+table1 %>% inner_join(table2, by = 'variable1')
+table1 %>% right_join(table2, by = 'variable1')
+table1 %>% full_join(table2,  by = 'variable1')
+```
+
+### Python:
+
+```python
+# Python
+# merge/join
+table1.merge(table2, on='variable1', how = 'left')
+table1.merge(table2, on='variable1', how = 'inner')
+table1.merge(table2, on='variable1', how = 'right')
+table1.merge(table2, on='variable1', how = 'outer')
+table1.merge(table2, on='variable1', how = 'cross')
 ```
 
 ---
