@@ -1,7 +1,7 @@
 title: HungerForData
 url: https://philliphungerford.github.io/
 description: Your data science hub by Phillip Hungerford
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 google_analytics: G-LT4RR0NGPM
