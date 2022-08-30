@@ -1,6 +1,7 @@
 # Statistics
 
 > - [Fundamentals](fundamentals/fundamentals.md)
+>   - Terms
 >   - Frequency distributions and graphing
 >   - Rankings in a distribution
 >   - Central tendency
@@ -21,15 +22,15 @@
 >   - Power analysis
 >   - Linear Models
 >   - Generalised Linear Models
-> - Longitudinal Data Analysis
+> - [Longitudinal Data Analysis](longitudinal-data-analysis/longitudinal-data-analysis.md)
 >   - Longitudinal data
 >   - Linear Mixed Effects Models
 >   - Generalised Estimating Equations
 >   - Generalised Linear Mixed Effects Models
 >   - Multilevel Modelling
 >   - Missing Data and Dropout
->   - [Time-To-Event (Survival) Analysis](survival-analysis/survival-analysis.md)
-> - Machine Learning
+>   - Time-To-Event (Survival) Analysis
+> - [Machine Learning](machine-learning.md)
 >   - Supervised
 > 	- Classification and Regression
 > 	- Generalisation, overfitting and underfitting
