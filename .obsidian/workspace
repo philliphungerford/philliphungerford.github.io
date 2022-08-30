@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "datascience/statistics/fundamentals/fundamentals.md",
+            "file": "index.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datascience/statistics/fundamentals/fundamentals.md"
+                "file": "index.md"
               }
             }
           }
@@ -130,9 +130,9 @@
   },
   "active": "91084cf045ea49e9",
   "lastOpenFiles": [
+    "datascience/statistics/fundamentals/fundamentals.md",
     "index.md",
     "datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md",
-    "datascience/statistics/fundamentals/fundamentals.md",
     "datascience/statistics/machine-learning/machine-learning.md",
     "datascience/statistics/statistics.md",
     "datascience/statistics/survival-analysis/survival-analysis.md",
