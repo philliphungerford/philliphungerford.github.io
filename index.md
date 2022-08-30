@@ -20,7 +20,7 @@ This site is all about health related data and how we can best analyse it using 
 	- [Visualising longitudinal study data in R](projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md)
 	- [COVID-19 Tracker NSW](projects/covid-19-tracker/covid-19-tracker.md)
 - ⭕OTHER
-	- ℹ️ LinkedIn
+	- 👤LinkedIn
 		- [Phillip Hungerford](https://www.linkedin.com/in/philliphungerford/)
 	- 👨‍🎨 ART
 		- [@phenomenalphillip](https://www.instagram.com/phenomenalphillip/?hl=en)
