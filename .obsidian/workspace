@@ -7,12 +7,8 @@
         "id": "91084cf045ea49e9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91084cf045ea49e9",
+  "active": "8955ce1034a3a242",
   "lastOpenFiles": [
-    "datascience/statistics/fundamentals/fundamentals.md",
+    "datascience/visualisations/power-bi/power-bi.md",
     "index.md",
-    "datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md",
-    "datascience/statistics/machine-learning/machine-learning.md",
-    "datascience/statistics/statistics.md",
-    "datascience/statistics/survival-analysis/survival-analysis.md",
-    "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
+    "datascience/statistics/fundamentals/fundamentals.md",
+    "Pasted image 20220831080840.png",
+    "_images/00002-selecttable.md",
+    "datascience/visualisations/power-bi/basic-dashboard/basic-dashboard.md",
     "datascience/data-manipulation/data-manipulation.md",
     "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
-    "about/about.md"
+    "datascience/visualisations/visualisations.md",
+    "datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md"
   ]
 }

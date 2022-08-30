@@ -4,26 +4,18 @@ layout: default
 # Statistics Fundamentals
 Table of Contents
 >   - Terms
->   - Frequency distributions and graphing
->   - Rankings in a distribution
->   - Central tendency
->   - Variability
->   - Standard scores
->   - Estimation and sampling distributions
+>   - Data and Sampling
+>   - Descriptive Statistics
 >   - Probability
->   - Binomial probability
->   - Hypothesis testing
->   - One sample t-test
->   - Bivariate designs
->   - Independent groups t-test
->   - Paired samples t-test
->   - Correlation
->   - Regression
->   - Analysis of variance (ANOVA)
->   - Chi-square 
->   - Power analysis
->   - Linear Models
->   - Generalised Linear Models
+>   - Discrete Random Variables
+>   - Continuous Random Variables
+>   - The Normal Distribution
+>   - Central Limit Theorem
+>   - Confidence Intervals
+>   - Hypothesis Testing
+>   - Chi-Square Distrubtion
+>   - Linear Regression
+>   - F Distribution and ANOVA
 
 ## Terms
 - **Population** = a collection of persons, things or objects under study
