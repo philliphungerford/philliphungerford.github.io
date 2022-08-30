@@ -9,6 +9,9 @@ This site is all about health related data and how we can best analyse it using 
 - 👨‍💻 DATA SCIENCE
 	- [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
 	- [Statistics](datascience/statistics/statistics.md)
+		- [Fundamentals](datascience/statistics/fundamentals/fundamentals.md)
+		- [Longitudinal Data Analysis](datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md)
+		- [Machine Learning](datascience/statistics/machine-learning/machine-learning.md)
 - 🧠 PRODUCTIVITY
 	- [The best way to plan a project](productivity/project-template/project-template.md)
 - 📁 PROJECTS
@@ -16,6 +19,13 @@ This site is all about health related data and how we can best analyse it using 
 	- [Predicting prostate cancer plan violations using AI](projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md)
 	- [Visualising longitudinal study data in R](projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md)
 	- [COVID-19 Tracker NSW](projects/covid-19-tracker/covid-19-tracker.md)
+- ⭕OTHER
+	- ℹ️ LinkedIn
+		- [Phillip Hungerford | LinkedIn](https://www.linkedin.com/in/philliphungerford/)
+	- 👨‍🎨 ART
+		- [@phenomenalphillip](https://www.instagram.com/phenomenalphillip/?hl=en)
+	- 🐈 PETS
+		- [@graciouslygrace_](https://www.instagram.com/graciouslygrace_/?hl=en)
 
 # About Me
 
