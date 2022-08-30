@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "91084cf045ea49e9",
+        "id": "515e16db0289143b",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "91084cf045ea49e9",
+  "active": "515e16db0289143b",
   "lastOpenFiles": [
-    "_templates/template-topic-subtopic.md",
     "index.md",
-    "about/about.md",
+    "_images/project-makeup.png",
     "productivity/project-template/project-template.md",
+    "_templates/template-topic-subtopic.md",
+    "about/about.md",
     "projects/covid-19-tracker/covid-19-tracker.md",
     "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
     "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
     "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
-    "datascience/visualisations/power-bi/power-bi.md",
-    "datascience/data-manipulation/data-manipulation.md"
+    "datascience/visualisations/power-bi/power-bi.md"
   ]
 }
