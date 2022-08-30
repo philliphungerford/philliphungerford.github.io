@@ -25,6 +25,10 @@ To reiterate, the accumulation of subtasks make up your tasks, and your tasks ma
 
 **Figure 1. - Project Make up**
 
+```xml
+<img src="{{site.url}}/_images/project-makeup.png" style="display: block; margin: auto;" />
+```
+
 ![project makeup](_images/project-makeup.png)
 
 # STEPS
