@@ -131,14 +131,14 @@
   "active": "515e16db0289143b",
   "lastOpenFiles": [
     "index.md",
-    "_images/project-makeup.png",
     "productivity/project-template/project-template.md",
+    "_images/00002-selecttable.md",
+    "_images/project-makeup.png",
     "_templates/template-topic-subtopic.md",
     "about/about.md",
     "projects/covid-19-tracker/covid-19-tracker.md",
     "projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md",
     "projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md",
-    "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
-    "datascience/visualisations/power-bi/power-bi.md"
+    "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md"
   ]
 }

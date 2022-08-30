@@ -24,9 +24,7 @@ These two work hand in hand. In order to complete a task, you need time. Therefo
 To reiterate, the accumulation of subtasks make up your tasks, and your tasks make up your sections. When all sections are completed, your project is complete!
 
 **Figure 1. - Project Make up**
-<img src="{{site.url}}/_images/project-makeup.png" style="display: block; margin: auto;" />
-
-![project makeup](_images/project-makeup.png)
+![project makeup](/docs/assets/project-makeup.png)
 
 # STEPS
 
