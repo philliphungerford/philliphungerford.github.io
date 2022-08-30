@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 # COVID-19 Tracker
 
 This was a dashboard I created for fun during lockdown. 

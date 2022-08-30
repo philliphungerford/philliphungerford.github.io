@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # PowerBi
 Table of Contents
 >   - About

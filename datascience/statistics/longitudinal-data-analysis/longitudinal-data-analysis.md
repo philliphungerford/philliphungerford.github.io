@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Longitudinal Data Analysis
 
 Table of Contents

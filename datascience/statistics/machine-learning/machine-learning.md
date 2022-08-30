@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Machine Learning
 Table of Contents
 >   - Supervised
