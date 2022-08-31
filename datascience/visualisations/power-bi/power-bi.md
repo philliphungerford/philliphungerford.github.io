@@ -17,7 +17,10 @@ PowerBi
 	- not as good as desktop
 
 ## Interface
-PowerBI has three views: 1. Report (default) 2. Data (see data used in the model associated with report) 3. Model (relationships of tables for the data model)
+PowerBI has three views: 
+1. Report (default)
+2. Data (see data used in the model associated with report)
+3. Model (relationships of tables for the data model)
 
 ![](/docs/assets/ui-1.png)
 
