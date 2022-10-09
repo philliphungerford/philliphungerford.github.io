@@ -22,7 +22,7 @@ This site is all about health related data and how we can best analyse it using 
 		- [COVID-19 Tracker NSW](projects/covid-19-tracker/covid-19-tracker.md)
 - 🧠 PRODUCTIVITY
 	- [The best way to plan a project](productivity/project-template/project-template.md)
-- ⭕OTHER
+- ⭕ OTHER
 	- 👤LinkedIn
 		- [Phillip Hungerford](https://www.linkedin.com/in/philliphungerford/)
 	- 👨‍🎨 ART
