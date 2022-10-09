@@ -26,9 +26,9 @@ This site is all about health related data and how we can best analyse it using 
 	- 👤LinkedIn
 		- [Phillip Hungerford](https://www.linkedin.com/in/philliphungerford/)
 	- 👨‍🎨 ART
-		- [@phenomenalphillip](https://www.instagram.com/phenomenalphillip/?hl=en)
+		- [@phillipsfineart](https://www.instagram.com/phillipsfineart/?hl=en)
 	- 🐈 PETS
-		- [@graciouslygrace_](https://www.instagram.com/graciouslygrace_/?hl=en)
+		- [@phillipscatgrace](https://www.instagram.com/phillipscatgrace/?hl=en)
 
 # About Me
 
