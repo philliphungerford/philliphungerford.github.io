@@ -23,12 +23,7 @@ This site is all about health related data and how we can best analyse it using 
 - 🧠 PRODUCTIVITY
 	- [The best way to plan a project](productivity/project-template/project-template.md)
 - ⭕ OTHER
-	- 👤LinkedIn
-		- [Phillip Hungerford](https://www.linkedin.com/in/philliphungerford/)
-	- 👨‍🎨 ART
-		- [@phillipsfineart](https://www.instagram.com/phillipsfineart/?hl=en)
-	- 🐈 PETS
-		- [@phillipscatgrace](https://www.instagram.com/phillipscatgrace/?hl=en)
+	- [👤 LinkedIn](https://www.linkedin.com/in/philliphungerford/)
 
 # About Me
 
