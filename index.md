@@ -20,8 +20,6 @@ This site is all about health related data and how we can best analyse it using 
 		- [Predicting prostate cancer plan violations using AI](projects/predicting-prostate-cancer-plan-violations-using-ai/predicting-prostate-cancer-plan-violations-using-ai.md)
 		- [Visualising longitudinal study data in R](projects/visualising-longitudinal-study-data-in-R/visualising-longitudinal-study-data-in-R.md)
 		- [COVID-19 Tracker NSW](projects/covid-19-tracker/covid-19-tracker.md)
-- 🧠 PRODUCTIVITY
-	- [The best way to plan a project](productivity/project-template/project-template.md)
 - ⭕ OTHER
 	- [👤 LinkedIn](https://www.linkedin.com/in/philliphungerford/)
 
