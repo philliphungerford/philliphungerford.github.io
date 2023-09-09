@@ -31,6 +31,7 @@ This site is all about health related data and how we can best analyse it using 
 - Version control: Github. 
 - Software: Jupyter Notebook, RStudio, RConnect, Anaconda, Microsoft SQL Manager, PyCharm, PowerBI, Microsoft Office, LibreOffice, Obsidian. 
 - Other: Parallel processing, advanced analytics and machine learning via NCI's Raijin Supercomputer, AWS Cloud processing / DAP, Snowflake Data Engineering.
+
 ## ⭕ OTHER
 - [👤 LinkedIn](https://www.linkedin.com/in/philliphungerford/)
 
