@@ -26,6 +26,11 @@ This site is all about health related data and how we can best analyse it using 
 - [Campbell G, Noghrehchi F, Nielsen S, Clare P, Bruno R, Lintzeris N, Cohen M, Blyth F, Hall W, Larance B, Hungerford P, Dobbins T, Farrell M, Degenhardt L. Risk factors for indicators of opioid-related harms amongst people living with chronic non-cancer pain: Findings from a 5-year prospective cohort study. EClinicalMedicine. 2020 Oct 16;28:100592. doi: 10.1016/j.eclinm.2020.100592. PMID: 33294810; PMCID: PMC7700907.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7700907/)
 - [Degenhardt L, Hungerford P, Nielsen S, Bruno R, Larance B, Clare PJ, Dobbins T, Hall W, Cohen M, Blyth F, Lintzeris N, Farrell M, Campbell G. Pharmaceutical Opioid Use Patterns and Indicators of Extramedical Use and Harm in Adults With Chronic Noncancer Pain, 2012-2018. JAMA Netw Open. 2021 Apr 1;4(4):e213059. doi: 10.1001/jamanetworkopen.2021.3059. PMID: 33835176; PMCID: PMC8035647.](https://pubmed.ncbi.nlm.nih.gov/33835176/)
 
+## 🤹‍♂️ SKILLS
+- Project management: Trello, Azure DevOps, JIRA, Salesforce, Monday.com, Todoist, Notion.
+- Version control: Github. 
+- Software: Jupyter Notebook, RStudio, RConnect, Anaconda, Microsoft SQL Manager, PyCharm, PowerBI, Microsoft Office, LibreOffice, Obsidian. 
+- Other: Parallel processing, advanced analytics and machine learning via NCI's Raijin Supercomputer, AWS Cloud processing / DAP, Snowflake Data Engineering.
 ## ⭕ OTHER
 - [👤 LinkedIn](https://www.linkedin.com/in/philliphungerford/)
 
