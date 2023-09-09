@@ -8,9 +8,9 @@ This site is all about health related data and how we can best analyse it using 
 
 - 👨‍💻 DATA SCIENCE
 	- 🔢 STATISTICS
-		- [Statistics Fundamentals](datascience/statistics/fundamentals/fundamentals.md)
-		- [Longitudinal Data Analysis](datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md)
-		- [Machine Learning](datascience/statistics/machine-learning/machine-learning.md)
+		- Statistics Fundamentals (Coming Soon!)
+		- Longitudinal Data Analysis (Coming Soon!)
+		- Machine Learning (Coming Soon!)
 	- 🏗️ MANIPULATION
 		- [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
 	- 📊 VISUALISATIONS
