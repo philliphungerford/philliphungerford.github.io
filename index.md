@@ -1,22 +1,20 @@
 ---
 layout: default
 ---
-# Welcome!
+# 👋 Welcome!
 
 This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
 
-## 👨‍💻 DATA SCIENCE
+## 🏗️ MANIPULATION
+- [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
 
-### 🔢 STATISTICS
+## 📊 VISUALISATIONS
+- [Data Visualisation with PowerBi](datascience/visualisations/power-bi/power-bi.md)
+
+## 🔢 STATISTICS
 - Statistics Fundamentals (Coming Soon!)
 - Longitudinal Data Analysis (Coming Soon!)
 - Machine Learning (Coming Soon!)
-
-### 🏗️ MANIPULATION
-- [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
-
-### 📊 VISUALISATIONS
-- [Data Visualisation with PowerBi](datascience/visualisations/power-bi/power-bi.md)
 
 ## 📁 PROJECTS
 - [Identifying 3D organ scans using AI](projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md)
