@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "index.md"
               }
             }
           }
@@ -156,13 +156,13 @@
   },
   "active": "515e16db0289143b",
   "lastOpenFiles": [
+    "README.md",
     "index.md",
     "datascience/statistics/fundamentals/fundamentals.md",
     "datascience/statistics/longitudinal-data-analysis/longitudinal-data-analysis.md",
     "datascience/data-manipulation/data-manipulation.md",
     "datascience/visualisations/power-bi/power-bi.md",
     "projects/identidying-3d-organ-scans-using-ai/identidying-3d-organ-scans-using-ai.md",
-    "README.md",
     "docs/README.md",
     "_images/Untitled 16.png.md",
     "_images/Untitled 14.png.md",
