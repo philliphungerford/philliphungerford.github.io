@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# 👨‍🔬 Phillip's Page
+# 👋 Welcome!
 
-Welcome to Phillip's page! This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
+This site is all about health related data and how we can best analyse it using a range of data science tools. These include statistical analysis, visualisation tools and machine learning.
 
 ## 🏗️ MANIPULATION
 - [Data Manipulation (SQL, Python, R)](datascience/data-manipulation/data-manipulation.md)
